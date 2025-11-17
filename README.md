@@ -12,7 +12,10 @@ Please use the **Issues** tab above to:
 
 - ## Issue Templates
 
-- We provide templates to help you submit clear and actionable feedback:
+
+## Issue Templates
+
+ We provide templates to help you submit clear and actionable feedback:
 - **Bug Report**: Report issues you've encountered
   - **Feature Request**: Suggest new features or improvements
  
