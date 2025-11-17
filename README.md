@@ -10,13 +10,10 @@ Please use the **Issues** tab above to:
 - Suggest improvements
 - Ask questions
 
-- ## Issue Templates
-
-
 ## Issue Templates
 
- We provide templates to help you submit clear and actionable feedback:
+We provide templates to help you submit clear and actionable feedback:
 - **Bug Report**: Report issues you've encountered
-  - **Feature Request**: Suggest new features or improvements
- 
-  - Thank you for helping us improve ConveniencePro!
+- **Feature Request**: Suggest new features or improvements
+
+Thank you for helping us improve ConveniencePro!
